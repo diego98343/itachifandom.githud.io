@@ -1,0 +1,18 @@
+.banner{
+  background-color: #4D00FF;  
+  color: red;
+  margin-top: 75px;
+  text-align: center;
+  padding: 100px 0 ;
+}
+
+#xd{
+  height: 100px;
+  width: 100px;
+}
+
+#itachixd{
+    font-weight: bold;
+    font-size: 80px ;
+    color:#4e09f0
+}
